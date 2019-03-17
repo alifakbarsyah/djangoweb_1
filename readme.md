@@ -1,8 +1,8 @@
-#My first django website!
+# My First DJango Web
 
-https://scotch.io/tutorials/build-your-first-python-and-django-application#toc-urls-templates
+Read This [Tutorial](https://scotch.io/tutorials/build-your-first-python-and-django-application#toc-urls-templates).
 
-how to run? 
+How to run the web.
 
 1.install the requirement first 
 
@@ -16,7 +16,9 @@ how to run?
 
 6.voila!
 
-tech in use : 
+
+
+Tech In Use.
 
 1.python3 
 
